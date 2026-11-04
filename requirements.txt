@@ -1,0 +1,10 @@
+# Unpinned starter list. In your Colab session run `pip freeze | grep -i -E "earthengine|pandas|numpy|scipy|scikit-learn|matplotlib|pyproj|statsmodels"`
+# and replace these lines with the exact versions you used.
+earthengine-api
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+pyproj
+statsmodels

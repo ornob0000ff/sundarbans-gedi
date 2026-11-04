@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated paper and this repository."
+title: "GEDI canopy structure of the Bangladesh Sundarbans: code and derived data"
+authors:
+  - family-names: "Ornob"
+    given-names: "Abir"
+version: "0.1.0"
+# Replace with the release date (YYYY-MM-DD) when you publish release v0.1.0:
+# date-released: "YYYY-MM-DD"
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/sundarbans-gedi"
+# After Zenodo archives the release, add:
+# doi: "10.5281/zenodo.XXXXXXX"
