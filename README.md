@@ -47,11 +47,11 @@ Please cite the original datasets (see the manuscript reference list).
 
 ## License
 
-Code: MIT (see `LICENSE`). Derived tables: [choose, for example CC BY 4.0, and confirm that the source data licenses allow redistribution of derived values].
+Code: MIT (see `LICENSE`). Derived tables: 
 
 ## Citation
 
-See `CITATION.cff`. After the first release, add the Zenodo DOI here.
+See `CITATION.cff`. Zenodo DOI will be added here
 
 ## Contact
 
